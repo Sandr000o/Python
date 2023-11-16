@@ -1,0 +1,17 @@
+
+-Hola maestro como andas
+-bien po
+-Que bueno maestrazo
+-Vamos a comer
+Linea 1
+Linea 2
+Linea 3
+Linea 4
+Linea 5
+Agregando línea con append
+Agregando línea con append
+Agreando linea 1 con Append
+Agreando linea 2 con Append
+Agreando linea 3 con Append
+Agreando linea 4 con Append
+Agreando linea 5 con Append
