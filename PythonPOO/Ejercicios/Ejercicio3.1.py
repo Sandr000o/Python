@@ -23,8 +23,8 @@ def mostrarPersonajes(personajes):
     
 def crearPersonajes():
     nombre=input("Ingrese el nombre del personaje : ")
-    fuerza=float(input("Ingrese la fuerza de : "))
-    velocidad=float(input("Ingrese la velocidad de : "))
+    fuerza=float(input(f"Ingrese la fuerza de {nombre} : "))
+    velocidad=float(input(f"Ingrese la velocidad de {nombre}: "))
     return Personaje(nombre,fuerza,velocidad)
 
 def borrarPersonaje(personajes,numero):
